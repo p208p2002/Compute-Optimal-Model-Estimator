@@ -97,7 +97,7 @@ if __name__ == "__main__":
             gr.Label(label="Total Compute Budget"),
             gr.Label(label="Estimated Final Loss"),
             gr.Label(label="Optimal Model Size"),
-            gr.Label(label="Optimal Dataset Size")
+            gr.Label(label="Optimal Dataset Size (Tokens)")
         ],
         title="Compute-Optimal Model Estimator",
         description=description,
