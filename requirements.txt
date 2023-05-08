@@ -1,0 +1,4 @@
+seaborn
+gradio
+pandas
+numpy
