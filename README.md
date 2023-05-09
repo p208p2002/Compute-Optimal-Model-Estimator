@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# Compute Optimal Model Estimator
+# Compute-Optimal Model Estimator
 
 <a target="_blank" href="https://huggingface.co/spaces/p208p2002/Compute-Optimal-Model-Estimator">
 <img src="https://img.shields.io/badge/🤗 Live Demo-ffea00?style=for-the-badge&logoColor=white">
