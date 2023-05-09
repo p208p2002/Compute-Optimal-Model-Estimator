@@ -1,4 +1,3 @@
-import pandas as pd
 import numpy as np
 import gradio as gr
 import matplotlib.pyplot as plt
@@ -85,7 +84,6 @@ def plot_pens(tflpos_card, utilization, num_gps, training_days):
 if __name__ == "__main__":
     iface = gr.Interface(
         fn=plot_pens,
-        layout='vertical',
         inputs=[
             gr.Textbox(label="TFLOP/s pre Card",value="40"),
             gr.Slider(label="System Utilization", minimum=0, maximum=1, step=0.01,value=0.25),
