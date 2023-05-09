@@ -18,7 +18,7 @@ some cases we report the loss for specific tokens within the context.
 
 • C ≈ 6ND – an estimate of the total non-embedding training compute
 
-$$E=1.69, A=406.4, \\alpha=0.34, \\beta=0.28$$
+$$E=1.69, A=406.4, B=410.7, \\alpha=0.34, \\beta=0.28$$
 $$C\\approx6DN$$
 $$L(N,D)=E+\\frac{A}{N^\\alpha}+\\frac{B}{D^\\beta}$$
 $$N_{opt}(C),D_{opt}(C)={\\arg\\min}_{N,D\ s.t.\ FLOP/s(N,D)=C}\ L(N,D)$$
