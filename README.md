@@ -9,4 +9,15 @@ app_file: app.py
 pinned: false
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Compute Optimal Model Estimator
+
+<a target="_blank" href="https://huggingface.co/spaces/p208p2002/Compute-Optimal-Model-Estimator">
+<img src="https://img.shields.io/badge/🤗 Live Demo-ffea00?style=for-the-badge&logoColor=white">
+</a>
+
+
+
+References
+- [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+- [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT/blob/master/scaling_laws.ipynb)
