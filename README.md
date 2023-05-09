@@ -16,8 +16,7 @@ pinned: false
 </a>
 
 
-
-References
+##### References
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/pdf/2203.15556.pdf)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT/blob/master/scaling_laws.ipynb)
