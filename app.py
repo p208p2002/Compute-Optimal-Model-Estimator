@@ -100,6 +100,5 @@ if __name__ == "__main__":
         title="Compute-Optimal Model Estimator",
         description=description,
         article=article,
-        theme='peach',
         live=False
     ).launch()
